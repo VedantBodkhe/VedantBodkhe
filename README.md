@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Vedant Bodkhe  
+# 👋 Hello, I’m Vedant M.Bodkhe  
 
 I’m a Software Developer currently pursuing my BTech in Engineering. With a strong foundation in computer science and a passion for developing efficient, scalable solutions, I am dedicated to continuously learning and expanding my skills in the software development field.  
 
